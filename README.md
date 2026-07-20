@@ -72,6 +72,18 @@ not just static analysis — with dynamic dropdown-driven visualizations.
 **Note:** Built using a public automobile sales dataset from an IBM Skills 
 Network course.
 
+### 6. Algorithmic Trading Strategy Backtest (SMA Crossover)
+`project_6.ipynb`
+
+**What it does:** Implements and backtests a moving-average crossover trading 
+strategy (20-day vs. 50-day SMA) on Microsoft (MSFT) stock, comparing 
+strategy returns against a buy-and-hold benchmark.
+**Techniques:** yfinance API, technical indicators (SMA), signal generation, 
+backtesting with lookahead-bias correction, cumulative return analysis
+**Key result:** Buy & Hold returned +14.50% vs. -2.24% for the algorithmic 
+strategy over the test period — illustrating why simple SMA crossover 
+strategies often underperform in strong trending markets.
+
 
 ---
 
