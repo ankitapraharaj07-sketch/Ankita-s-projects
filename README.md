@@ -2,12 +2,11 @@
 # 📊 Finance Data Science Projects
 
 A collection of data science projects applying machine learning and statistical 
-analysis to real-world finance problems — including [X], [Y], and [Z] 
-(e.g. risk modeling, fraud detection, price forecasting).
+analysis to real-world finance problems.
 
 ## 🛠️ Tech Stack
-Python · Pandas · NumPy · Scikit-learn · [add: XGBoost, TensorFlow, etc.] · 
-Matplotlib/Seaborn · Jupyter Notebook
+Python · Pandas · NumPy · Scikit-learn · YFinance · 
+Matplotlib/Seaborn · Jupyter Notebook · SQLite3 · Plotly 
 
 ---
 
