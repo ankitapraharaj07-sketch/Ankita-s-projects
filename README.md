@@ -84,6 +84,16 @@ backtesting with lookahead-bias correction, cumulative return analysis
 strategy over the test period — illustrating why simple SMA crossover 
 strategies often underperform in strong trending markets.
 
+### 7. Stock Price vs. Revenue Comparison (Tesla & GameStop)
+`project_7.ipynb`
+
+**What it does:** Compares historical stock price trends against quarterly 
+revenue for Tesla and GameStop, using web-scraped financial data alongside 
+market data, to visualize how closely price tracked business fundamentals.
+**Techniques:** yfinance API, web scraping (BeautifulSoup), data cleaning, 
+reusable visualization functions
+**Key output:** Dual-panel share price vs. revenue charts for TSLA and GME.
+
 
 ---
 
